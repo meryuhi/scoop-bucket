@@ -19,7 +19,7 @@
     "shortcuts": [
         [
             "ILSpy.exe",
-            "ILSpy"
+            "ILSpy Preview"
         ]
     ],
     "checkver": {
